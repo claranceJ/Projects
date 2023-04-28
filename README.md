@@ -1,3 +1,3 @@
 # Projects
 
-This 5 projects best showcase my beginner journer as a python programmer
+These 5 projects best showcase my journer as a python programmer
